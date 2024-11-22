@@ -1,10 +1,10 @@
 ## Olá, meu nome é Fabio 👋, sou:
 
- 👨‍💻 Desenvolvedor Java Backend
- 🎓 Formado em Análise e Desenvolvimento de Sistemas
- 📚 Pós-graduando em Desenvolvimento e Teste de Softwares
- 🎓 Concluí o curso de Desenvolvedor Java no SENAI
- 📚 Atualmente cursando Desenvolvimento Full Stack no SENAI
+     👨‍💻 Desenvolvedor Java Backend
+     🎓 Formado em Análise e Desenvolvimento de Sistemas
+     📚 Pós-graduando em Desenvolvimento e Teste de Softwares
+     🎓 Concluí o curso de Desenvolvedor Java no SENAI
+     📚 Atualmente cursando Desenvolvimento Full Stack no SENAI
 
 🚀 Apaixonado por criar soluções robustas e eficientes no universo backend. Atualmente, estou mergulhado em tecnologias como:
 
